@@ -14,11 +14,10 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 - CSS3
 - JavaScript
 
-## 📍 Live Demo
-[Click here to visit my portfolio](http://127.0.0.1:5501/index.html)
+
 
 ## 📬 Contact
-If you'd like to collaborate or get in touch, feel free to reach out through my website's contact form or connect via [LinkedIn](https://linkedin.com/in/yourusername).
+If you'd like to collaborate or get in touch, feel free to reach out through my website's contact form or connect via [LinkedIn](https://linkedin.com/in/Ragini N).
 
 ---
 
